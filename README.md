@@ -63,9 +63,11 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="YOUR_USERNAME" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frederick2005&show_icons=true&locale=en&layout=compact&theme=radical" alt="Frederick2005" />
+  
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=radical" alt="YOUR_USERNAME" />
 </p>
