@@ -31,7 +31,7 @@ Replace all BOLD CAPS LOCK text and bracketed links [] with your own info.
   <tr>
     <td>
       <ul style="font-size: 18px; list-style-type: '✅ ';">
-        <li>🔭 <strong>Currently building</strong>: <a href="LINK">YOUR_PROJECT_NAME</a></li>
+        <li>🔭 <strong>Currently building</strong>: <a href="LINK">leatha</a></li>
         <li>🌱 <strong>Learning</strong>: Rust / Kubernetes / AI Agents</li>
         <li>👯 <strong>Open to collaborate</strong>: on innovative OSS projects</li>
         <li>💬 <strong>Ask me about</strong>: System Design, Python, React, DevOps</li>
@@ -171,16 +171,16 @@ Replace all BOLD CAPS LOCK text and bracketed links [] with your own info.
 ## 🌐 **Let's Connect**
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/akampa fredrick">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="60" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://twitter.com/kam47__">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" height="60" />
   </a>
   <a href="https://dev.to/YOUR_DEVTO">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=0D1117" height="60" />
   </a>
-  <a href="https://youtube.com/@YOUR_YOUTUBE">
+  <a href="https://youtube.com/@Kam47-wf9zg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" height="60" />
   </a>
   <a href="https://www.buymeacoffee.com/YOUR_COFFEE">
